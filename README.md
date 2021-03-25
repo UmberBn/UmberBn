@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **humberto-bandeira@hotmail.com**
 
-- 📄 My Curriculum [https://gitconnected.com/umberbn/resume](https://gitconnected.com/umberbn/resume)
+- 📄 My Curriculum [here](https://gitconnected.com/umberbn/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
