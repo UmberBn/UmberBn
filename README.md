@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Humberto Bandeira</h1>
 <h3 align="center">A Front-End Developer from Brazil</h3>
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' />
 
-- 🌱 I’m currently learning **React Native, Typescript, SQL**
+- :iphone: I’m currently learning **React Native** for mobile.
 
 - 💬 Ask me about **React, Javascript, CSS.**
 
