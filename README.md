@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Humberto Bandeira</h1>
 <h3 align="center">A Front-End Developer from Brazil</h3>
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' />
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
 
-- :iphone: I’m currently learning **React Native** for mobile.
+- :star2: My current stack is **React**, **Redux**, **ContextAPI**, **RTL** and **Jest**.
 
-- 💬 Ask me about **React, Javascript, CSS.**
+- :books: I am currently learning **React Native** for mobile apps, **NODE** for back-end, recently I started to learn new front-end frameworks like **VUE**.
+
+- 💬 Ask me about **front-end technologies**
 
 - 📫 How to reach me **humberto-bandeira@hotmail.com**
 
