@@ -1,5 +1,5 @@
 <h1 align="center">Hi :alien:, I'm Humberto Bandeira</h1>
-<h3 align="center">A Front-End Developer from Brazil</h3>
+<h3 align="center">A Full-stack Developer from Brazil</h3>
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
 
 - :star2: My current stack is **React**, **Redux**, **ContextAPI**, **RTL** and **Jest**.
