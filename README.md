@@ -23,4 +23,4 @@
 <h3> My Stats on Github </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=umberbn&show_icons=true&theme=synthwave" alt="UmberBn GitHub stats">
-
+![Total Views](https://komarev.com/ghpvc/?username=umberbn)
